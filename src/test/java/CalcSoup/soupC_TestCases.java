@@ -124,7 +124,7 @@ public class soupC_TestCases {
  
 	 @AfterMethod
 	 public void afterMethod() {
-		 driver.close();
+		// driver.close();
 		 driver.quit();
 	 }
 
